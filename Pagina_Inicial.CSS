@@ -1,0 +1,38 @@
+body {
+    font: 18px Arial;
+    background-image:  url(https://encurtador.com.br/kqAPU);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+nav{
+    text-align: center;
+    padding: 10px;
+    background-color: #EF8F37;}
+nav li{
+display: list-item;
+padding: 10px;
+}
+nav a{
+text-transform: uppercase;
+color: white;
+font-weight: bold;
+font-size: 22px;
+text-decoration: none;}
+
+.Titulo {
+text-align: center;
+    }
+
+.lancamentos {
+        width: 940px;
+        margin: 0 auto;
+    
+        
+    }
+    .lancamentos img {
+        width: 300px;
+        height: 300px;
+        border-radius: 10px;
+        border: 3px solid #ffffff;
+   
+    }
